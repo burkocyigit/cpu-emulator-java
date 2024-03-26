@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.ArrayList;
 
-public class a120200808012 {
+public class Emulator {
 
     static int[] memory = new int[256];
 
