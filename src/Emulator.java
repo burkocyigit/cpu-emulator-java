@@ -14,7 +14,7 @@ public class Emulator {
     public static void main(String[] args) {
 
         if (args.length == 0) {
-            System.out.println("No txt file provided!\nUsage: java a120200808012.java your_instructions.txt");
+            System.out.println("No txt file provided!\nUsage: java Emulator.java your_instructions.txt");
             System.exit(1);
         }
 
